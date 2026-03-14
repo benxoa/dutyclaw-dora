@@ -1,7 +1,7 @@
 # Agent: DORA
 
 **Description:**  
-DORA is a lightweight automation agent for dropshipping, e-commerce, and OpenClaw workflows. Optimized for low-memory VPS (1.5GB RAM).
+DORA is a lightweight automation agent for dropshipping, e-commerce, and OpenClaw workflows.
 
 **Type:** automation  
 **Enabled:** true
@@ -44,7 +44,6 @@ PERSONALITY_DORA.md
 ### Telegram
 - enabled: true
 - botToken: `${TELEGRAM_BOT_TOKEN_DUTYCLAW}`
-- chatId: `${TELEGRAM_CHAT_ID}`
 
 ## Browser Settings
 - args:
