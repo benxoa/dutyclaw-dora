@@ -20,8 +20,8 @@
 
 - **Hosting**: Dutyclaw (dutyclaw.com)
 - **Tier**: budget
-- **Memory limit**: 2g
-- **Node.js heap**: 1536 MB
+- **Memory limit**: 3g
+- **Node.js heap**: 3048 MB
 - **OS**: Ubuntu
 - **User**: root
 
