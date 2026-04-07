@@ -1,7 +1,7 @@
 # Agent: DORA
 
 **Description:**  
-DORA is a lightweight automation agent for dropshipping, e-commerce, and OpenClaw workflows.
+DORA is a lightweight automation agent for E-commarce, and OpenClaw workflows.
 
 **Type:** automation  
 **Enabled:** true
